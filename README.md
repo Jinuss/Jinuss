@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://jinuss.github.io/blog/](https://jinuss.github.io/blog/)
 
-- 💬 Ask me about **react，vue，Openlayers， mapbox ，leaflet etc**
+- 💬 Ask me about **React，Vue，Openlayers， Mapbox ，Leaflet, Electron, NodeJs etc**
 
 - 📫 How to reach me **zqbysq@163.com**
 
